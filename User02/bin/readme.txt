@@ -1,0 +1,9 @@
+用户管理功能
+	注册
+	登录
+	删除
+	修改
+	查询
+	列表
+	添加\删除\修改\查询
+	CRUD(Create\Read\Update\Delete)

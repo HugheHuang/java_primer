@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persons>
+  <person age="22">
+    <name>张三</name>
+    <sex>男</sex>
+    <idcard>123123</idcard>
+  </person>
+  <person age="12">
+    <name>李四</name>
+    <sex>男</sex>
+    <idcard>123456</idcard>
+  </person>
+  <person age="27">
+    <name>王五</name>
+    <sex>男</sex>
+    <idcard>123789</idcard>
+  </person>
+  <person age="25">
+    <name>马六</name>
+    <sex>男</sex>
+    <idcard>123124</idcard>
+  </person>
+</persons>

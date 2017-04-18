@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+	<book id="1">
+		<title>java编程思想</title>
+		<author>Bruce Eckel</author>
+		<price>89.00</price>
+		<book>lalala</book>
+	</book>
+	<book id="2">
+		<title>C++编程思想</title>
+		<author>Bruce Eckel</author>
+		<price>69.00</price>
+	</book><book id="3">
+		<title>headfirst in java</title>
+		<author>Orelly</author>
+		<price>29.00</price>
+	</book>
+</books>
